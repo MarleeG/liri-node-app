@@ -1,7 +1,7 @@
 # liri-node-app
 ## Liri Commands:
 
-## #my-tweets
+## my-tweets
 * This will show your at least 20 of your most recent tweets
 
 ### spotify-this-song "input"
