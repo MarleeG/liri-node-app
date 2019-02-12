@@ -1,0 +1,144 @@
+Artist(s): Beyoncé
+
+Song: Flawless Remix
+
+Album: BEYONCÉ [Platinum Edition]
+
+Link: https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m
+---------------------------------------------------------------------------------------------
+Artist(s): Beyoncé
+
+Song: Flawless Remix
+
+Album: BEYONCÉ [Platinum Edition]
+
+Link: https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m
+---------------------------------------------------------------------------------------------
+Artist(s): Sir Mix-A-Lot
+
+Song: Baby Got Back
+
+Album: The Boss Is Back
+
+Link: https://api.spotify.com/v1/artists/3TQ9JTBI2n2hfo7aRONEYV
+---------------------------------------------------------------------------------------------
+Artist(s): Destiny's Child
+
+Song: Say My Name
+
+Album: The Writing's On The Wall
+
+Link: https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i
+---------------------------------------------------------------------------------------------
+Artist(s): Destiny's Child
+
+Song: Say My Name
+
+Album: The Writing's On The Wall
+
+Link: https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i
+---------------------------------------------------------------------------------------------
+Artist(s): Britney Spears
+
+Song: ...Baby One More Time
+
+Album: ...Baby One More Time (Digital Deluxe Version)
+
+Link: https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4
+---------------------------------------------------------------------------------------------
+Artist(s): KIDS SEE GHOSTS
+
+Song: Reborn
+
+Album: KIDS SEE GHOSTS
+
+Link: https://api.spotify.com/v1/artists/2hPgGN4uhvXAxiXQBIXOmE
+---------------------------------------------------------------------------------------------
+
+
+Title: Salt
+
+Year of release: 23 Jul 2010
+
+IMDB Rating: 6.4/10
+
+Rotten Tomato Rating: 62%
+
+Country of Production: USA
+
+Movie Language(s): English, Russian, Korean
+
+Movie Plot: A CIA agent goes on the run after a defector accuses her of being a Russian spy.
+
+Movie Actor(s): Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski
+---------------------------------------------------------------------------------------------
+
+
+Title: The Equalizer
+
+Year of release: 26 Sep 2014
+
+IMDB Rating: 7.2/10
+
+Rotten Tomato Rating: 60%
+
+Country of Production: USA
+
+Movie Language(s): English, Russian, Spanish
+
+Movie Plot: A man believes he has put his mysterious past behind him and has dedicated himself to beginning a new, quiet life. But when he meets a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her.
+
+Movie Actor(s): Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour
+---------------------------------------------------------------------------------------------
+Artist(s): KIDS SEE GHOSTS
+
+Song: Reborn
+
+Album: KIDS SEE GHOSTS
+
+Link: https://api.spotify.com/v1/artists/2hPgGN4uhvXAxiXQBIXOmE
+---------------------------------------------------------------------------------------------
+Artist(s): Britney Spears
+
+Song: ...Baby One More Time
+
+Album: ...Baby One More Time (Digital Deluxe Version)
+
+Link: https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4
+---------------------------------------------------------------------------------------------
+
+
+Title: The Equalizer
+
+Year of release: 26 Sep 2014
+
+IMDB Rating: 7.2/10
+
+Rotten Tomato Rating: 60%
+
+Country of Production: USA
+
+Movie Language(s): English, Russian, Spanish
+
+Movie Plot: A man believes he has put his mysterious past behind him and has dedicated himself to beginning a new, quiet life. But when he meets a young girl under the control of ultra-violent Russian gangsters, he can't stand idly by - he has to help her.
+
+Movie Actor(s): Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour
+---------------------------------------------------------------------------------------------
+
+
+Title: Salt
+
+Year of release: 23 Jul 2010
+
+IMDB Rating: 6.4/10
+
+Rotten Tomato Rating: 62%
+
+Country of Production: USA
+
+Movie Language(s): English, Russian, Korean
+
+Movie Plot: A CIA agent goes on the run after a defector accuses her of being a Russian spy.
+
+Movie Actor(s): Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski
+---------------------------------------------------------------------------------------------
