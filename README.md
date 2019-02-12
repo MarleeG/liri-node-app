@@ -1,7 +1,18 @@
 # liri-node-app
+
+## Built With
+
+* [Twitter](https://www.npmjs.com/package/twitter)   
+* [Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
+* [Request](https://www.npmjs.com/package/request)
+* [OMDB API](http://www.omdbapi.com)
+* [DotEnv](https://www.npmjs.com/package/dotenv)
+* [Node.js](https://nodejs.org)
+
+
 ## Liri Commands:
 
-## my-tweets
+### my-tweets
 * This will show your at least 20 of your most recent tweets
 
 ### spotify-this-song "input"
@@ -25,3 +36,6 @@
 
 ### do-what-it-says
 * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+
+### Demo
+* [YouTube](https://www.youtube.com/watch?v=LhSnZ2jd3Es)
