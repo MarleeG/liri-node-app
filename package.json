@@ -19,6 +19,7 @@
   "homepage": "https://github.com/MarleeG/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "extend": "^3.0.2",
     "lodash": "^4.17.14",
     "lodash.template": "^4.5.0",
     "node-spotify-api": "^1.0.7",
